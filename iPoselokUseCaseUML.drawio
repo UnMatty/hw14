@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T13:54:59.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="QSN5qeTMNnguBfWHraX7" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T15:09:42.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="DgJK3P9EmrWySmixNStW" version="13.10.4" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="2066" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="630" y="225" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YTRROF7AAzYIW9vtYWbR-27" value="Изменение персональных данных" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="30" width="140" height="70" as="geometry" />
+          <mxGeometry x="240" y="690" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YTRROF7AAzYIW9vtYWbR-30" value="Управленческая отчетность" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="350" width="140" height="70" as="geometry" />
